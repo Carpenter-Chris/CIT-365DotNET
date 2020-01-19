@@ -1,0 +1,9 @@
+C:\Users\Chris - Non Admin\Desktop\BYUI School info\CIT-365\GitRepo\CIT-365DotNET\MathQuiz\bin\Debug\MathQuiz.exe.config
+C:\Users\Chris - Non Admin\Desktop\BYUI School info\CIT-365\GitRepo\CIT-365DotNET\MathQuiz\bin\Debug\MathQuiz.exe
+C:\Users\Chris - Non Admin\Desktop\BYUI School info\CIT-365\GitRepo\CIT-365DotNET\MathQuiz\bin\Debug\MathQuiz.pdb
+C:\Users\Chris - Non Admin\Desktop\BYUI School info\CIT-365\GitRepo\CIT-365DotNET\MathQuiz\obj\Debug\MathQuiz.csprojAssemblyReference.cache
+C:\Users\Chris - Non Admin\Desktop\BYUI School info\CIT-365\GitRepo\CIT-365DotNET\MathQuiz\obj\Debug\MathQuiz.Form1.resources
+C:\Users\Chris - Non Admin\Desktop\BYUI School info\CIT-365\GitRepo\CIT-365DotNET\MathQuiz\obj\Debug\MathQuiz.Properties.Resources.resources
+C:\Users\Chris - Non Admin\Desktop\BYUI School info\CIT-365\GitRepo\CIT-365DotNET\MathQuiz\obj\Debug\MathQuiz.csproj.GenerateResource.cache
+C:\Users\Chris - Non Admin\Desktop\BYUI School info\CIT-365\GitRepo\CIT-365DotNET\MathQuiz\obj\Debug\MathQuiz.exe
+C:\Users\Chris - Non Admin\Desktop\BYUI School info\CIT-365\GitRepo\CIT-365DotNET\MathQuiz\obj\Debug\MathQuiz.pdb
