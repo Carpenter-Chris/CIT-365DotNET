@@ -1,0 +1,13 @@
+C:\Users\Chris - Non Admin\Desktop\BYUI School info\CIT-365\GitRepo\CIT-365DotNET\MegaDesk-Carpenter\bin\Debug\MegaDesk-Carpenter.exe.config
+C:\Users\Chris - Non Admin\Desktop\BYUI School info\CIT-365\GitRepo\CIT-365DotNET\MegaDesk-Carpenter\bin\Debug\MegaDesk-Carpenter.exe
+C:\Users\Chris - Non Admin\Desktop\BYUI School info\CIT-365\GitRepo\CIT-365DotNET\MegaDesk-Carpenter\bin\Debug\MegaDesk-Carpenter.pdb
+C:\Users\Chris - Non Admin\Desktop\BYUI School info\CIT-365\GitRepo\CIT-365DotNET\MegaDesk-Carpenter\obj\Debug\MegaDesk-Carpenter.csprojAssemblyReference.cache
+C:\Users\Chris - Non Admin\Desktop\BYUI School info\CIT-365\GitRepo\CIT-365DotNET\MegaDesk-Carpenter\obj\Debug\MegaDesk_Carpenter.MainMenu.resources
+C:\Users\Chris - Non Admin\Desktop\BYUI School info\CIT-365\GitRepo\CIT-365DotNET\MegaDesk-Carpenter\obj\Debug\MegaDesk_Carpenter.Properties.Resources.resources
+C:\Users\Chris - Non Admin\Desktop\BYUI School info\CIT-365\GitRepo\CIT-365DotNET\MegaDesk-Carpenter\obj\Debug\MegaDesk-Carpenter.csproj.GenerateResource.cache
+C:\Users\Chris - Non Admin\Desktop\BYUI School info\CIT-365\GitRepo\CIT-365DotNET\MegaDesk-Carpenter\obj\Debug\MegaDesk-Carpenter.exe
+C:\Users\Chris - Non Admin\Desktop\BYUI School info\CIT-365\GitRepo\CIT-365DotNET\MegaDesk-Carpenter\obj\Debug\MegaDesk-Carpenter.pdb
+C:\Users\Chris - Non Admin\Desktop\BYUI School info\CIT-365\GitRepo\CIT-365DotNET\MegaDesk-Carpenter\obj\Debug\MegaDesk_Carpenter.AddQuote.resources
+C:\Users\Chris - Non Admin\Desktop\BYUI School info\CIT-365\GitRepo\CIT-365DotNET\MegaDesk-Carpenter\obj\Debug\MegaDesk_Carpenter.DisplayQuote.resources
+C:\Users\Chris - Non Admin\Desktop\BYUI School info\CIT-365\GitRepo\CIT-365DotNET\MegaDesk-Carpenter\obj\Debug\MegaDesk_Carpenter.SearchQuotes.resources
+C:\Users\Chris - Non Admin\Desktop\BYUI School info\CIT-365\GitRepo\CIT-365DotNET\MegaDesk-Carpenter\obj\Debug\MegaDesk_Carpenter.ViewAllQuotes.resources
